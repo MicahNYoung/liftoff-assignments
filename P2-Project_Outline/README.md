@@ -7,12 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our project is an habit-forming web app with the goal of increasing the user's consistency in forming habits. We are providing users with an opportunity to add habits, see their current habits, as well as be rewarded with a positive stimuli when they report that they are reinforcing their habits.
 ### Features
-Include Features here
+-Login: User will be able to create accounts and log in to the application. 
+-Visualizing habit progress: User will be able to view habit history
+-"CRUD" operations to habits: User will be able to read, add, edit and delete their habits.
+
 ### Technologies
-Include Technologies here
+-Java
+-Spring Boot
+-MySQL
+-Hibernate
+-React
+-JavaScript
+-Material UI
 ### What I'll Have to Learn
-Include what you will need to learn here
+-I will have to improve my React skills and best practices.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/uH9NEjBx/c4365493a9a705386ff370abff7eb6c9/liftoff
